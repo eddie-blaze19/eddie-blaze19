@@ -1,4 +1,4 @@
-Hi 👋 My name is Edward
+Hi 👋 I am The FireHeartDev
 =======================
 
 I have been learning to code for three years since starting my computer science degree
@@ -7,7 +7,7 @@ I have been learning to code for three years since starting my computer science 
 *   ✉️  You can contact me at [edwarddziworshie@gmail.com](mailto:edwarddziworshie@gmail.com)
 *   🧠  I'm learning Dart and the Flutter framework
 *   ⚡  I love beautiful and reactive GUIs
-*### Skills 
+### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
