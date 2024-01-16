@@ -5,7 +5,7 @@ I have been learning to code for three years since starting my computer science 
 
 *   🌍  I'm based in Tamale, Ghana
 *   ✉️  You can contact me at [edwarddziworshie@gmail.com](mailto:edwarddziworshie@gmail.com)
-*   🧠  I'm learning Dart and the Flutter framework
+*   🧠  I'm learning Java, Dart and the Flutter framework
 *   ⚡  I love beautiful and reactive GUIs
 ### Skills 
 <p align="left">
