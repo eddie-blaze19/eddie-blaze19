@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🚀 About Me<br><br>I'm a results-driven IT professional passionate about cloud computing, software development, and innovative technical solutions. Based in Greater Accra, Ghana, I specialize in modernizing business processes through automated solutions and scalable cloud architectures.<br><br>- 🔭 Currently working at InfoTech Dot Net Systems.<br><br>- 🌱 Learning System Design, Systems Engineering, and Project Managerment. <br><br>- 🎯 Working towards Professional certifications.</p>
+<p align="left">🚀 About Me<br><br>I'm a results-driven IT professional passionate about cloud computing, software development, and innovative technical solutions. I specialize in modernizing business processes through automated solutions and scalable cloud architectures.<br><br>- 🔭 Currently working at InfoTech Dot Net Systems.<br><br>- 🌱 Learning System Design, Systems Engineering, and Project Management. <br><br>- 🎯 Working towards Professional certifications.</p>
 
 ###
 
