@@ -46,10 +46,6 @@
 
 ###
 
-<br clear="both">
- 
-### 
-
 <p align="right">⭐ From Edward Dziworshie - "Always exploring innovative solutions and engaging with diverse audiences!"</p>
 
 ###
